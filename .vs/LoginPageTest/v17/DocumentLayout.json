@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\pages\\LoginPage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|solutionrelative:pages\\LoginPage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\base\\SeleniumDriver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|solutionrelative:base\\SeleniumDriver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\LoginPageTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|solutionrelative:LoginPageTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\tests\\LoginTests.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|solutionrelative:tests\\LoginTests.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\tests\\conftest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ADBF30C-E201-4BF9-82DC-77D12A55ADCC}|LoginPageTest.pyproj|solutionrelative:tests\\conftest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conftest.py",
+              "DocumentMoniker": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\tests\\conftest.py",
+              "RelativeDocumentMoniker": "tests\\conftest.py",
+              "ToolTip": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\tests\\conftest.py",
+              "RelativeToolTip": "tests\\conftest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-14T12:25:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleniumDriver.py",
+              "DocumentMoniker": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\base\\SeleniumDriver.py",
+              "RelativeDocumentMoniker": "base\\SeleniumDriver.py",
+              "ToolTip": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\base\\SeleniumDriver.py",
+              "RelativeToolTip": "base\\SeleniumDriver.py",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAawFYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-14T11:40:09.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTests.py",
+              "DocumentMoniker": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\tests\\LoginTests.py",
+              "RelativeDocumentMoniker": "tests\\LoginTests.py",
+              "ToolTip": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\tests\\LoginTests.py",
+              "RelativeToolTip": "tests\\LoginTests.py",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-13T14:55:42.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.py",
+              "DocumentMoniker": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\pages\\LoginPage.py",
+              "RelativeDocumentMoniker": "pages\\LoginPage.py",
+              "ToolTip": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\pages\\LoginPage.py",
+              "RelativeToolTip": "pages\\LoginPage.py",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-13T14:53:44.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPageTest.py",
+              "DocumentMoniker": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\LoginPageTest.py",
+              "RelativeDocumentMoniker": "LoginPageTest.py",
+              "ToolTip": "C:\\Users\\manju\\Downloads\\celso\\Selenium_test_suite_login_page\\LoginPageTest\\LoginPageTest.py",
+              "RelativeToolTip": "LoginPageTest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-13T14:49:49.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

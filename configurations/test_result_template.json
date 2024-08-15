@@ -1,0 +1,16 @@
+{
+  "testcase_1": {
+    "test_case_id": "login_01",
+    "test_case_description": "checks on giving valid username and password the message box displays 'login successful!'",
+    "test_case_expected_result": "message box displays 'login successful!'",
+    "test_case_actual_result": "",
+    "end_result": ""
+  },
+  "testcase_2": {
+    "test_case_id": "login_02",
+    "test_case_description": "checks on giving invalid username and password the message box displays 'Invalid username or password.'",
+    "test_case_expected_result": "message box displays 'Invalid username or password.'",
+    "test_case_actual_result": "",
+    "end_result": ""
+  }
+}

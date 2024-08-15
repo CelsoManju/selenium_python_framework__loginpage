@@ -1,0 +1,434 @@
+08/15/2024 09:54:23 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:23 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:23 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:23 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:23 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:23 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:24 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:54:24 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:54:24 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:54:24 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element found
+08/15/2024 09:54:39 AM - __init__ - INFO: Element found
+08/15/2024 09:54:39 AM - __init__ - INFO: Message box found
+08/15/2024 09:54:39 AM - __init__ - INFO: Message box found
+08/15/2024 09:54:39 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 09:54:39 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:54:39 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:54:52 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:54:52 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:54:52 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:54:52 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:54:52 AM - __init__ - INFO: Element found
+08/15/2024 09:54:52 AM - __init__ - INFO: Element found
+08/15/2024 09:54:52 AM - __init__ - INFO: Element found
+08/15/2024 09:54:52 AM - __init__ - INFO: Element found
+08/15/2024 09:54:52 AM - __init__ - INFO: Message box found
+08/15/2024 09:54:52 AM - __init__ - INFO: Message box found
+08/15/2024 09:54:52 AM - __init__ - INFO: Message box found
+08/15/2024 09:54:52 AM - __init__ - INFO: Message box found
+08/15/2024 09:54:52 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:54:52 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:54:52 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:54:52 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:57:06 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:57:06 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:57:06 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element found
+08/15/2024 09:57:21 AM - __init__ - INFO: Element found
+08/15/2024 09:57:21 AM - __init__ - INFO: Message box found
+08/15/2024 09:57:21 AM - __init__ - INFO: Message box found
+08/15/2024 09:57:21 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 09:57:21 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 09:57:21 AM - LoginTests - INFO: test_validLogin resultTrue
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:21 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:57:22 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 09:57:35 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:57:35 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:57:35 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:57:35 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 09:57:35 AM - __init__ - INFO: Element found
+08/15/2024 09:57:35 AM - __init__ - INFO: Element found
+08/15/2024 09:57:35 AM - __init__ - INFO: Element found
+08/15/2024 09:57:35 AM - __init__ - INFO: Element found
+08/15/2024 09:57:38 AM - __init__ - INFO: Message box found
+08/15/2024 09:57:38 AM - __init__ - INFO: Message box found
+08/15/2024 09:57:38 AM - __init__ - INFO: Message box found
+08/15/2024 09:57:38 AM - __init__ - INFO: Message box found
+08/15/2024 09:57:38 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:57:38 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:57:38 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:57:38 AM - __init__ - ERROR: Message box text is :Login successful!
+08/15/2024 09:57:38 AM - LoginTests - INFO: test_validLogin resultFalse
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:03:40 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:03:40 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:03:40 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element found
+08/15/2024 10:03:50 AM - __init__ - INFO: Element found
+08/15/2024 10:03:50 AM - __init__ - INFO: Message box found
+08/15/2024 10:03:50 AM - __init__ - INFO: Message box found
+08/15/2024 10:03:50 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 10:03:50 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 10:03:50 AM - LoginTests - INFO: test_validLogin resultTrue
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:50 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:03:51 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:03:56 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:03:56 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:03:56 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:03:56 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:03:56 AM - __init__ - INFO: Element found
+08/15/2024 10:03:56 AM - __init__ - INFO: Element found
+08/15/2024 10:03:56 AM - __init__ - INFO: Element found
+08/15/2024 10:03:56 AM - __init__ - INFO: Element found
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box found
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box found
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box found
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box found
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:03:56 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:03:56 AM - LoginTests - INFO: test_validLogin resultTrue
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:09:27 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:09:27 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:09:27 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element found
+08/15/2024 10:09:37 AM - __init__ - INFO: Element found
+08/15/2024 10:09:37 AM - __init__ - INFO: Message box found
+08/15/2024 10:09:37 AM - __init__ - INFO: Message box found
+08/15/2024 10:09:37 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 10:09:37 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 10:09:37 AM - LoginTests - INFO: test_validLogin resultTrue
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:37 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:09:38 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:09:43 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:09:43 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:09:43 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:09:43 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:09:43 AM - __init__ - INFO: Element found
+08/15/2024 10:09:43 AM - __init__ - INFO: Element found
+08/15/2024 10:09:43 AM - __init__ - INFO: Element found
+08/15/2024 10:09:43 AM - __init__ - INFO: Element found
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box found
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box found
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box found
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box found
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:09:43 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:09:43 AM - LoginTests - INFO: test_validLogin resultTrue
+08/15/2024 10:28:14 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:14 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:14 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:14 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:14 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:14 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:15 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:28:15 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:28:15 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:28:15 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element found
+08/15/2024 10:28:25 AM - __init__ - INFO: Element found
+08/15/2024 10:28:25 AM - __init__ - INFO: Message box found
+08/15/2024 10:28:25 AM - __init__ - INFO: Message box found
+08/15/2024 10:28:25 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 10:28:25 AM - __init__ - INFO: Message box text is :Invalid username or password.
+08/15/2024 10:28:25 AM - __init__ - INFO: Screenshot saved as verifyLoginfailed_true.png
+08/15/2024 10:28:25 AM - __init__ - INFO: Screenshot saved as verifyLoginfailed_true.png
+08/15/2024 10:28:25 AM - LoginTests - INFO: test_validLogin resultTrue
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_username and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Sent data on element with locator: txt_inp_username locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: cleared data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:25 AM - __init__ - INFO: Element Found with locator: txt_inp_password and locatorType: id
+08/15/2024 10:28:26 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:26 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:26 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:26 AM - __init__ - INFO: Sent data on element with locator: txt_inp_password locatorType: id
+08/15/2024 10:28:26 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Element Found with locator: //*[@id='btn_submit'] and locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:28:26 AM - __init__ - INFO: Clicked on element with locator: //*[@id='btn_submit'] locatorType: xpath
+08/15/2024 10:28:31 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:28:31 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:28:31 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:28:31 AM - __init__ - INFO: Element Found with locator: p_message and locatorType: id
+08/15/2024 10:28:31 AM - __init__ - INFO: Element found
+08/15/2024 10:28:31 AM - __init__ - INFO: Element found
+08/15/2024 10:28:31 AM - __init__ - INFO: Element found
+08/15/2024 10:28:31 AM - __init__ - INFO: Element found
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box found
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box found
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box found
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box found
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:28:31 AM - __init__ - INFO: Message box text is :Login successful!
+08/15/2024 10:28:31 AM - __init__ - INFO: Screenshot saved as verifyLoginSuccessful_true.png
+08/15/2024 10:28:31 AM - __init__ - INFO: Screenshot saved as verifyLoginSuccessful_true.png
+08/15/2024 10:28:31 AM - __init__ - INFO: Screenshot saved as verifyLoginSuccessful_true.png
+08/15/2024 10:28:31 AM - __init__ - INFO: Screenshot saved as verifyLoginSuccessful_true.png
+08/15/2024 10:28:31 AM - LoginTests - INFO: test_validLogin resultTrue
